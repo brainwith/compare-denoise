@@ -1,3 +1,7 @@
+# AI降噪效果对比
+- [krisp](https://krisp.ai/): 商业的AI工具，功能强大，除了降噪还有其他许多能力，Livekit首推
+- [rnnoise](https://github.com/xiph/rnnoise): 基于RNN模型的开源AI降噪工具，支持自己训练模型，动态加载不同模型
+
 ## bgvoice（背景声音）
 | **处理工具** | **波形图** |
 |----------|----------|
