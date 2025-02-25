@@ -40,9 +40,9 @@
 |[krisp(charge)](krisp/scraping-krisp.mp3) | ![图片](krisp/scraping-krisp.png) |
 | [rnnoise](rnnoise/scraping-rnnoise.wav) | ![图片](rnnoise/scraping-rnnoise.png) |
 
-## crumpling（揉塑料袋）
+## Crumpling（揉塑料袋）
 | **处理工具** | **波形图** |
 |----------|----------|
-| [original](original/crumpling.mp3) | ![图片](original/crumpling.png) |
-|[krisp(charge)](krisp/crumpling-krisp.mp3) | ![图片](krisp/crumpling-krisp.png) |
-| [rnnoise](rnnoise/crumpling-rnnoise.wav) | ![图片](rnnoise/crumpling-rnnoise.png) |
+| [original](original/Crumpling.mp3) | ![图片](original/Crumpling.png) |
+|[krisp(charge)](krisp/Crumpling-krisp.mp3) | ![图片](krisp/Crumpling-krisp.png) |
+| [rnnoise](rnnoise/Crumpling-rnnoise.wav) | ![图片](rnnoise/Crumpling-rnnoise.png) |
